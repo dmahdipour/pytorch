@@ -9,3 +9,6 @@
 ## Multi Class Classification
 * Make Blobs
 * Spiral
+### Convolutional Neural Network (CNN)
+* MNIST
+* FashionMNIST
