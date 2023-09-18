@@ -15,3 +15,6 @@
 * FashionMNIST - https://github.com/dmahdipour/pytorch/blob/main/MultiClass_ConvolutionalNeuralNetwordModel_FashionMNIST.ipynb
 * CIFAR10 - https://github.com/dmahdipour/pytorch/blob/main/MultiClass_ConvolutionalNeuralNetwordModel_CIFAR10.ipynb
 * CustomDataset - https://github.com/dmahdipour/pytorch/blob/main/MultiClass_CustomDataset_ConvolutionalNeuralNetwordModel_Food(Pizza_Steak_Sushi).ipynb
+
+### Pre-trained Model
+* DmyShapesDataset - https://github.com/dmahdipour/pytorch/blob/main/DmyShapesDataset_PretrainedModel.ipynb
